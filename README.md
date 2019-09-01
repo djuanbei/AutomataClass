@@ -24,13 +24,13 @@
 1. JOHN E. HOPCROFT，
 RAJEEV MOTWANI，
 JEFFREY D. ULLMAN
-<<INTRODUCTION TO
-Automata Theory, Languages, and Computation>>
+<<INTRODUCTION TO Automata Theory, Languages, and Computation>>
 Pearson Education, Inc
 
 
 2. Javier Esparza
-<<Automata theory An algorithmic approach>>
+<< Automata theory An algorithmic approach>>
+
 
 3. Daniel Kroening Ofer Strichman
 <<Decision Procedures An Algorithmic Point of View>>
