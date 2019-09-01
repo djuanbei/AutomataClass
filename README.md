@@ -20,6 +20,7 @@
 6.	掌握SAT问题 3课时讲解， 3个课时讨论，6个课时课堂实验（实现基本算法）
 
 # 主要参考书（刊）目录：
+
 1. JOHN E. HOPCROFT，
 RAJEEV MOTWANI，
 JEFFREY D. ULLMAN
@@ -27,12 +28,13 @@ JEFFREY D. ULLMAN
 Automata Theory,
 Languages, and Computation>>
 Pearson Education, Inc
+
+
 2. Javier Esparza
 <<Automata theory An algorithmic approach>>
 
 3. Daniel Kroening Ofer Strichman
-<<Decision Procedures
-An Algorithmic Point of View>>
+<<Decision Procedures An Algorithmic Point of View>>
 Springer
 
 
