@@ -25,8 +25,7 @@
 RAJEEV MOTWANI，
 JEFFREY D. ULLMAN
 <<INTRODUCTION TO
-Automata Theory,
-Languages, and Computation>>
+Automata Theory, Languages, and Computation>>
 Pearson Education, Inc
 
 
